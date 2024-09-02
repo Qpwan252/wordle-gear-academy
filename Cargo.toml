@@ -1,10 +1,7 @@
 [workspace]
 resolver = "2"
 
-members = [
-    "wordle",
-    "game-session"
-]
+members = ["wordle","game-session"]
 
 [workspace.package]
 version = "0.1.0"
